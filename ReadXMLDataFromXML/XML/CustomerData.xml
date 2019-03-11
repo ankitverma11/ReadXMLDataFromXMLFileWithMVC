@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Customer>
+
+  <Customer>
+    <CustomerID>1</CustomerID>
+    <CustomerName>Ankit</CustomerName>
+    <Contact>123456789</Contact>
+  </Customer>
+
+  <Customer>
+    <CustomerID>2</CustomerID>
+    <CustomerName>Ankur</CustomerName>
+    <Contact>123776789</Contact>
+  </Customer>
+  <Customer>
+    <CustomerID>3</CustomerID>
+    <CustomerName>Ankita</CustomerName>
+    <Contact>123466689</Contact>
+  </Customer>
+
+</Customer>
